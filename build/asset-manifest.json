@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VikramS_React_1/static/css/main.d2c649f7.css",
+    "main.js": "/VikramS_React_1/static/js/main.b2aef093.js",
+    "index.html": "/VikramS_React_1/index.html",
+    "main.d2c649f7.css.map": "/VikramS_React_1/static/css/main.d2c649f7.css.map",
+    "main.b2aef093.js.map": "/VikramS_React_1/static/js/main.b2aef093.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2c649f7.css",
+    "static/js/main.b2aef093.js"
+  ]
+}
